@@ -1,7 +1,7 @@
 # MinimalDPDKExamples
 Minimal examples of DPDK
 
-Project Lead: Thomas Edwards (thomas.edwards@disney.com)
+Project Lead: Thomas Edwards (AWS)
 
 ## minimal_tx
 Minimal code to send UDP packets with DPDK
